@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shailesh-chaudhari/react-component.git/static/css/main.39660546.css",
+    "main.js": "/shailesh-chaudhari/react-component.git/static/js/main.fbc98e11.js",
+    "static/js/453.6c073028.chunk.js": "/shailesh-chaudhari/react-component.git/static/js/453.6c073028.chunk.js",
+    "index.html": "/shailesh-chaudhari/react-component.git/index.html",
+    "main.39660546.css.map": "/shailesh-chaudhari/react-component.git/static/css/main.39660546.css.map",
+    "main.fbc98e11.js.map": "/shailesh-chaudhari/react-component.git/static/js/main.fbc98e11.js.map",
+    "453.6c073028.chunk.js.map": "/shailesh-chaudhari/react-component.git/static/js/453.6c073028.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39660546.css",
+    "static/js/main.fbc98e11.js"
+  ]
+}
